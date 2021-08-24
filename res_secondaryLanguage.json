@@ -1,0 +1,199 @@
+{
+    "basic_info": {
+      "description_header": "Hallo",
+      "description": "👋 ich bin Abdullah Al Mosabbir (Tuhin). Ambivertierte Person, die versucht, den Glücksweg des Stoikers zu finden, :) Ich arbeite mit beliebten Javascript-Frameworks wie React, React native und NodeJS. Ich möchte meine Freizeit mit Freunden verbringen, liebe es Gitarre zu spielen, Filme zu schauen und Musik zu hören. Aber ich denke, mein Film- / Musikgeschmack wird im Vergleich zu Ihnen ziemlich entgegengesetzt sein. Vielen Dank 💜",
+      "section_name": {
+        "about": "Über mich",
+        "projects": "Projekte",
+        "skills": "Fähigkeiten",
+        "experience": "Erfahrung"
+      }
+    },
+
+      "projects": [
+        {
+          "title": "Golpogatha",
+          "startDate": "2019 - 2020",
+          "description": "Stricken Sie Ihre Gedanken in geschichte, story writing plattform, kollaboratives story writing mit der welt, einfachste Möglichkeit, ihre Gedanken mit der Welt zu teilen",
+          "features": [
+            "Benutzerprofil",
+            "Geschichte lesen und schreiben",
+            "Geben und Nehmen Reaktionen der Geschichte",
+            "Kommentieren und mit Freunden teilen",
+            "Laden Sie die Geschichte als PDF zum Offline-Lesen herunter",
+            "Separate Kapitel",
+            "Schreibe eine Geschichte gemeinsam mit jemand anderem"
+          ],
+          "images": [],
+          "url": "",
+          "technologies": [
+            {
+              "class": "devicon-nodejs-plain",
+              "name": "NodeJs"
+            },
+            {
+              "class": "devicon-react-plain",
+              "name": "Nativ reagieren"
+            },
+            {
+              "class": "devicon-javascript-plain",
+              "name": "JavaScript"
+            },
+            {
+              "class": "devicon-graphql-plain",
+              "name": "Apollo GraphQl"
+            },
+            {
+              "class": "devicon-mongodb-plain",
+              "name": "MongoDB"
+            },
+            {
+              "class": "devicon-heroku-plain",
+              "name": "Heroku"
+            }
+          ]
+        },
+        {
+          "title": "Electronic Voting Machine",
+          "startDate": "2019 - 2020",
+          "description": "Project for study subject where users (student) can elect someone by online voting",
+          "features": [
+            "Admin Panel",
+            "Set election by selecting candidates",
+            "Create, update or delete candidates",
+            "Send email to students who are capable of participating to particular election",
+            "Student can give vote to onl one candidate with the token given in mail",
+            "Admins can count votes and declare the winner for an election"
+          ],
+          "images": [],
+          "url": "",
+          "technologies": [
+            {
+              "class": "devicon-java-plain",
+              "name": "Java"
+            },
+            {
+              "class": "devicon-googlecloud-plain",
+              "name": "Google App Engine"
+            },
+            {
+              "class": "devicon-react-plain",
+              "name": "React"
+            }
+          ]
+        },
+        {
+          "title": "Scan & Park",
+          "startDate": "2021 - Present",
+          "description": "Another project from study course where I am responsible for designing the REST backend and admin panel for smart parking for residential users",
+          "features": [
+            "Admin Panel",
+            "Mobile Application (Cross Platform)",
+            "REST Bckend in NodeJS, Sequelize and MySql",
+            "Admin can create parking slots with unique QR barcode",
+            "Admin can ban or remove unauthorized user",
+            "User can register/login with the app to book an available slot",
+            "User can scan the QR barcode for booking and leaving the slot"
+          ],
+          "images": [],
+          "url": "",
+          "technologies": [
+            {
+              "class": "devicon-nodejs-plain",
+              "name": "NodeJs"
+            },
+            {
+              "class": "devicon-express-original",
+              "name": "Express Js"
+            },
+            {
+              "class": "devicon-mysql-plain",
+              "name": "MySql"
+            },
+            {
+              "class": "devicon-sequelize-plain",
+              "name": "Sequelize"
+            },
+            {
+              "class": "devicon-react-plain",
+              "name": "React"
+            }
+          ]
+        }
+      ],
+    "experience": [
+      {
+        "company": "Siemens Heilhineer",
+        "title": "Front-End-Entwickler",
+        "years": "10.2020 - heute",
+        "mainTech": [
+          "Winkel 10"
+        ],
+        "technologies": [
+          "REST-API",
+          "RxJS",
+          "JavaScript",
+          "SHUI - (Siemens Healhineers UI)"
+        ]
+      },
+      {
+        "company": "Mediatain GmbH & Co. KG",
+        "title": "Studentischer Softwareentwickler",
+        "years": "01.2020 - 10.2020",
+        "mainTech": [
+          "React, NodeJs, Firebase"
+        ],
+        "technologies": [
+          "Reagieren",
+          "NodeJs",
+          "Ausdrücken",
+          "RUHEPAUSE",
+          "Firebase",
+          "BDD & TDD"
+        ]
+      },
+      {
+        "company": "Shopfront Ltd.",
+        "title": "Software Engineer",
+        "years": "09.2018 - 09.2019",
+        "mainTech": [
+          "React Native, React"
+        ],
+        "technologies": [
+          "React Native",
+          "Reagieren",
+          "NodeJs",
+          "MySql",
+          "Firebase"
+        ]
+      },
+      {
+        "company": "Ekkbaz",
+        "title": "Software Engineer",
+        "years": "08.2017 - 09.2018",
+        "mainTech": [
+          "React Native, React"
+        ],
+        "technologies": [
+          "React Native",
+          "Reagieren",
+          "NodeJs",
+          "XMPP",
+          "Firebase"
+        ]
+      },
+      {
+        "company": "Finder GPS Tracking",
+        "title": "Front-End-Entwickler",
+        "years": "02.2017 - 08.2018",
+        "mainTech": [
+          "Reagieren"
+        ],
+        "technologies": [
+          "Reagieren",
+          "Python",
+          "Leaflet"
+        ]
+      }
+    ]
+}

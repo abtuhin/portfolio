@@ -1,0 +1,143 @@
+{
+    "basic_info": {
+      "name": "Abdullah Al Mosabbir",
+      "titles": [ "Software Developer", "Javascirpt Developer", "Mobile App Developer", "Full Stack Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/abtuhin",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/abtuhin",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "stack-overflow",
+          "url": "https://stackoverflow.com/users/7964448/mosabbir-tuhin",
+          "class": "fab fa-stack-overflow"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/abtuhin11",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/abdullahalmosabbir",
+          "class": "fab fa-facebook"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "90"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "90"
+        },
+        {
+          "name": "NodeJs",
+          "class": "devicon-nodejs-plain",
+          "level": "70"
+        },
+        {
+          "name": "Express JS",
+          "class": "devicon-express-original",
+          "level": "70"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "90"
+        },
+        {
+          "name": "PostgreSql",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
+          "level": "60"
+        },
+        {
+          "name": "Google Cloud",
+          "class": "devicon-googlecloud-plain",
+          "level": "60"
+        },
+        {
+          "name": "MongoDb",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "Sequelize",
+          "class": "devicon-sequelize-plain",
+          "level": "60"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "60"
+        },
+        {
+          "name": "GraphQl",
+          "class": "devicon-graphql-plain",
+          "level": "70"
+        },
+        {
+          "name": "Ubuntu",
+          "class": "devicon-ubuntu-plain",
+          "level": "70"
+        },
+        {
+          "name": "Flutter",
+          "class": "devicon-flutter-plain",
+          "level": "70"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "90"
+        },
+        {
+          "name": "Slack",
+          "class": "devicon-slack-plain",
+          "level": "90"
+        },
+        {
+          "name": "Trello",
+          "class": "devicon-trello-plain",
+          "level": "90"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "80"
+        }
+      ]
+    }
+  }
