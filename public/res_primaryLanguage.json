@@ -1,0 +1,198 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Abdullah Al Mosabbir (Tuhin). Ambiverted person trying to find the Stoic's path of happiness :) I'm working with popular javascript frameworks like React, React native and NodeJS. I would like to spend my free times with friends, love to play guitar, watch movies and listen to music. But I guess my movie/music taste will be quite opposite comparing with you. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "GolpoGatha",
+        "startDate": "2019 - 2020",
+        "description": "knit your thoughts into story, story writing platform, collaborative story writing with the world, easiest way to share your thoughts to the world",
+        "features": [
+          "User profile",
+          "Read and write story",
+          "Give and take reactions of story",
+          "Comment and share with friends",
+          "Download story as PDF for offline reading",
+          "Seprate chapters",
+          "Write story collaboratively with someone else"
+        ],
+        "images": [],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-graphql-plain",
+            "name": "Apollo GraphQl"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-heroku-plain",
+            "name": "Heroku"
+          }
+        ]
+      },
+      {
+        "title": "Electronic Voting Machine",
+        "startDate": "2019 - 2020",
+        "description": "Project for study subject where users (student) can elect someone by online voting",
+        "features": [
+          "Admin Panel",
+          "Set election by selecting candidates",
+          "Create, update or delete candidates",
+          "Send email to students who are capable of participating to particular election",
+          "Student can give vote to onl one candidate with the token given in mail",
+          "Admins can count votes and declare the winner for an election"
+        ],
+        "images": [],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-googlecloud-plain",
+            "name": "Google App Engine"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Scan & Park",
+        "startDate": "2021 - Present",
+        "description": "Another project from study course where I am responsible for designing the REST backend and admin panel for smart parking for residential users",
+        "features": [
+          "Admin Panel",
+          "Mobile Application (Cross Platform)",
+          "REST Bckend in NodeJS, Sequelize and MySql",
+          "Admin can create parking slots with unique QR barcode",
+          "Admin can ban or remove unauthorized user",
+          "User can register/login with the app to book an available slot",
+          "User can scan the QR barcode for booking and leaving the slot"
+        ],
+        "images": [],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express Js"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-sequelize-plain",
+            "name": "Sequelize"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Siemens Healhineers",
+        "title": "Front-End Developer",
+        "years": "10.2020 - present",
+        "mainTech": [
+          "Angular 10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "SHUI - (Siemens Healhineers UI)"
+        ]
+      },
+      {
+        "company": "Mediatain GmbH & Co. KG",
+        "title": "Student Software Developer",
+        "years": "01.2020 - 10.2020",
+        "mainTech": [
+          "React, NodeJs, Firebase"
+        ],
+        "technologies": [
+          "React",
+          "NodeJs",
+          "Express",
+          "REST",
+          "Firebase",
+          "BDD & TDD"
+        ]
+      },
+      {
+        "company": "Shopfront Ltd.",
+        "title": "Software Engineer",
+        "years": "09.2018 - 09.2019",
+        "mainTech": [
+          "React Native, React"
+        ],
+        "technologies": [
+          "React Native",
+          "React",
+          "NodeJs",
+          "MySql",
+          "Firebase"
+        ]
+      },
+      {
+        "company": "Ekkbaz",
+        "title": "Software Engineer",
+        "years": "08.2017 - 09.2018",
+        "mainTech": [
+          "React Native, React"
+        ],
+        "technologies": [
+          "React Native",
+          "React",
+          "NodeJs",
+          "XMPP",
+          "Firebase"
+        ]
+      },
+      {
+        "company": "Finder GPS Tracking",
+        "title": "Front-End Developer",
+        "years": "02.2017 - 08.2018",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "React",
+          "Python",
+          "Leaflet"
+        ]
+      }
+    ]
+  }
