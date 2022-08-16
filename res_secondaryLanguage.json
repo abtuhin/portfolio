@@ -123,6 +123,22 @@
       ],
     "experience": [
       {
+        "company": "Siemens Energy",
+        "title": "Working Student Software Developer",
+        "years": "10.2021 - present",
+        "mainTech": [
+          "React & Electron",
+          "Golang"
+        ],
+        "technologies": [
+          "REST API",
+          "React",
+          "TypeScript",
+          "Golnag",
+          "Pyhton"
+        ]
+      },
+      {
         "company": "Siemens Heilhineer",
         "title": "Front-End-Entwickler",
         "years": "10.2020 - heute",
@@ -132,7 +148,7 @@
         "technologies": [
           "REST-API",
           "RxJS",
-          "JavaScript",
+          "TypeScript",
           "SHUI - (Siemens Healhineers UI)"
         ]
       },
